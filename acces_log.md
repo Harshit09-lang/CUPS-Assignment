@@ -1,5 +1,5 @@
 # ADDING COMMENTS AND PRINTING THEM
-I added some notes to the cupsFilePrintf() function, which was located in the scheduler's log.c file. I marked the function with a note. Following the modification of the file. Enter the make and make install commands once again.
+I made some changes to the cupsFilePrintf() function in the scheduler's log.c file. I made a note of the function. Following the file's modification. Retype the build and make install commands.
 
 ## Here is modified accesslog
 ```
